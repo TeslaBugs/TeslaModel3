@@ -14,3 +14,5 @@ Let's try to collect them here in a coordinated way as far as possible.
 
 ## Contribution
 If you have noticed a reported problem too, please give the issue a thubs up!
+
+![Thumbs Up](2019-12-03_001.png)
